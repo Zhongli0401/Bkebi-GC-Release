@@ -1,1 +1,3 @@
-# Bkebi GC Public Release Download
+# Bkebi GC Release
+
+[Join our discord!](https://discord.gg/bkebi)
