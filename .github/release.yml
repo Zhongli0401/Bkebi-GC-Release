@@ -1,0 +1,16 @@
+# =================
+# Release Changelog
+# =================
+
+# .github/release.yml
+# see https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes
+
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    
+  categories:
+    - title: Delete this line when publish
+      labels:
+        - "*"
