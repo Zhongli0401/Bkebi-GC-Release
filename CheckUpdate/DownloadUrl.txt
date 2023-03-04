@@ -1,1 +1,1 @@
-https://github.com/Bkebi-Group/Bkebi-GC-Release/releases/download/1.1.1/bkebi-1.1.1.1454-d8f30b1e-rel.zip
+https://github.com/Bkebi-Group/Bkebi-GC-Release/releases/download/1.1.1Hotfix/bkebi-1.1.1.1468-090bb977-rel.zip
